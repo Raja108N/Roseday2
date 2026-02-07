@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", serif;
+  --font-sans: "Inter", sans-serif;
+}
+
+body {
+  @apply bg-rose-500 text-rose-50 antialiased overflow-x-hidden;
+  /* Use !important to force the background if something is overriding it */
+  background: linear-gradient(135deg, #fb7185 0%, #e11d48 50%, #9f1239 100%) !important;
+  min-height: 100vh;
+}
