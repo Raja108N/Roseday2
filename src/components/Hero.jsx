@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { Heart } from 'lucide-react';
-import UserImage from '../assets/IMG20211129135642.png';
+import UserImage from '../assets/IMG20211129135642.jpg';
 
 const Hero = () => {
     // Generate random floating elements (hearts + roses)
@@ -74,7 +74,7 @@ const Hero = () => {
                     transition={{ delay: 0.5, duration: 1 }}
                     className="text-6xl md:text-8xl font-serif font-bold text-rose-950 mb-6 drop-shadow-sm"
                 >
-                    Happy Rose Day,<br />Bandol 🌹
+                    Happy Rose Day,<br />MyRose 🌹
                 </motion.h1>
 
                 <motion.p

@@ -4,17 +4,17 @@ const storyData = [
     {
         title: "First kiss",
         date: "A special moment",
-        content: "police school ko terrace",
+        content: "Across the Fenchurch Street, down the long tower: rainy windy, cold: you and me.",
     },
     {
         title: "When I Knew It Was You 💓",
         date: "The turning point",
-        content: "Before and during Covid",
+        content: "After stubborn ness that it will work and your effort and understanding",
     },
     {
         title: "My Favorite Memories With You 🌙",
         date: "Countless laughs",
-        content: "All days days near you specially all kathmandu days and outings",
+        content: "All days days with you holding hands and walking across, and chit chat",
     },
     {
         title: "What I Dream For Us 💍",
